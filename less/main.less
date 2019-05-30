@@ -1,0 +1,336 @@
+@font-face {
+    font-family: 'Nature Beauty Personal Use';
+    src: url('fonts/NatureBeautyPersonalUse.woff2') format('woff2'),
+        url('fonts/NatureBeautyPersonalUse.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alte Haas Grotesk';
+    src: url('fonts/AlteHaasGrotesk.woff2') format('woff2'),
+        url('fonts/AlteHaasGrotesk.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alte Haas Grotesk';
+    src: url('fonts/AlteHaasGrotesk_Bold.woff2') format('woff2'),
+        url('fonts/AlteHaasGrotesk_Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@import "vars";
+
+
+
+h2 {
+    text-align: center;
+}
+
+/*Ajuste de FullWidth*/
+
+.page-template {
+    .container {
+        max-width: 100%;
+        width: 100%;
+    }
+}
+
+
+/*Esquema por defecto para las secciones*/
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    .col {
+        width: 50%;
+    }
+    .col2 {
+        width: 33%;
+    }
+}
+
+/*Ajuste general*/
+
+.template-section {
+   
+        padding: 50px 0;
+    
+
+    .contenedor {
+        max-width: 1100px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .col {
+        min-height: 500px;
+        padding: 60px;
+    }
+    
+    h1 {
+        color: @negro;
+        font-family: 'Nature Beauty Personal Use';
+        font-weight: bold;
+            font-size: 68px;
+        
+    }
+
+    h2 {
+        color: @negro;
+        font-family: 'Nature Beauty Personal Use';
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 1.3em;
+
+    }
+    p.de {
+                font-size: 24px;
+        font-weight: bold;
+    }
+
+    p,
+    ul {
+         color: @negro;
+        font-size: 1.2em;
+        font-family: 'Alte Haas Grotesk';
+    }
+
+    ul {
+        li {
+            position: relative;
+            margin-left: 15px;
+            margin-bottom: 10px;
+            &::before {
+                content: "•";
+                color: @negro;
+                padding-right: 10px;
+                position: absolute;
+                left: -15px;
+            }
+        }
+
+        &.azul {
+            li {
+                &::before {
+                   color: @negro;
+                }
+            }
+        }
+    }
+
+
+
+ 
+
+    .btn {
+        transition: all 0.3s ease-in-out;
+        font-family: 'Aquawax';
+            text-transform: none;
+            font-size: 1.2em;
+         -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 5px;
+            background: @negro;
+            color: #fff;
+            &:hover {
+                background: white;
+                color: @negro;
+            }
+        
+    }
+}
+
+.row {
+   
+    display: inherit;
+}
+#banner {
+     padding: 150px 0;
+     background: url(../img/banner2.jpg) no-repeat center;
+    h1 {
+        text-align: center;
+        position: relative;
+        left: 300px;
+    }
+}
+
+#escuela {
+     background: url(../img/escuela.jpg) no-repeat center;
+    text-align: center;
+           padding: 300px 0;
+    .contenedor {
+    max-width: 800px;
+    }
+   
+    p.finalidad {
+            margin-top: -102px;
+    }
+
+    
+}
+#plasmar {
+    
+                background: url(../img/lista.png) no-repeat center;
+          margin-top: -165px;
+.contenedor {
+    max-width: 800px;
+    }
+
+ .col {
+          margin-top: 250px;
+      padding: 10px;
+            min-height: inherit;
+    }
+}
+
+#decia {
+    text-align: center;
+     background: url(../img/1392.png) no-repeat center;
+    padding: 100px 0;
+    .contenedor {
+    max-width: 800px;
+    }
+     
+}
+
+#principios {
+     background: url(../img/pita.png) no-repeat center;
+    text-align: center;
+    padding: 475px 0;
+     .contenedor {
+    max-width: 430px;
+             position: relative;
+    top: 240px;
+    }
+    p {
+        text-align: justify;
+        text-align-last: center;
+    }
+}
+#aprende {
+      background: url(../img/pita2.png) no-repeat center;
+        padding: 350px 0;
+    margin-top: -300px;
+    p {
+        text-align: justify;
+        text-align-last: center;
+    }
+    .contenedor {
+    max-width: 800px;
+        
+    }
+}
+
+#despertar {
+     background: url(../img/despertar.png) no-repeat center;
+        padding: 200px 0;
+    margin-top: -148px;
+     .contenedor {
+    max-width: 800px;
+            position: relative;
+    top: 50px;
+    }
+     p {
+        text-align: justify;
+        text-align-last: center;
+    }
+}
+
+#contacto {
+    background-color: @azul;
+    a {
+        color: @naranja;
+        text-decoration: underline;
+        &:hover {
+            color: white;
+        }
+    }
+    p {
+        
+        color: white;
+        text-align: center;
+        font-size: 1.8em;
+    }
+     .contenedor {
+    max-width: 800px;
+         
+    }
+}
+
+
+/**RUIZ***/
+
+#banneruiz {
+     background: url(../img/ameruiz.png) no-repeat center;
+    h1 {
+        color: white;
+        text-align: center;
+        position: relative;
+          left: 150px;
+    }
+    .dra {
+          background-color: @cafe;
+           
+            
+             margin: 2em auto;
+    overflow: hidden;
+    padding: 1.5em 1.5em;
+    position: relative;
+       width: 520px; /* ancho */
+          left: 150px;
+   
+                z-index: 1;
+        p {
+            color: white;
+            text-align: justify;
+            text-align-last: center;
+        }
+    }
+    
+}
+
+#organizacion {
+    background: url(../img/organizacion.png) no-repeat center;
+    
+    .col {
+            min-height: initial;
+        padding: 20px;
+    }
+    .permanece {
+        margin-top: 70px;
+    }
+}
+#invitar {
+    padding: 100px 0;
+     background: url(../img/invitar.png) no-repeat center;
+     .contenedor {
+    max-width: 500px;
+          text-align: justify;
+            text-align-last: center;
+    }
+    h2 {
+        font-size: 45px;
+    }
+}
+#videos {
+    h2 {
+        font-size: 45px;
+        span {
+             font-family: 'Alte Haas Grotesk';
+        }
+    }
+}
+.contactoruiz #contacto {
+    background-color: @morado;
+    a {
+        color: @moradoclaro;
+        &:hover {
+            color: white;
+        }
+    }
+}
+@import "responsive";
