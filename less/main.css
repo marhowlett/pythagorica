@@ -17,6 +17,12 @@
   font-weight: bold;
   font-style: normal;
 }
+@font-face {
+  font-family: 'ABasterRules';
+  src: url('fonts/ABasterRules.woff2') format('woff2'), url('fonts/ABasterRules.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 h2 {
   text-align: center;
 }
