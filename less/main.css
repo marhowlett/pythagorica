@@ -95,18 +95,19 @@ h2 {
 }
 .template-section .btn {
   transition: all 0.3s ease-in-out;
-  font-family: 'Aquawax';
+  font-family: 'Nature Beauty Personal Use';
   text-transform: none;
-  font-size: 1.2em;
+  font-size: 35px;
   -webkit-border-radius: 10px;
+  padding: 20px;
   -moz-border-radius: 10px;
   border-radius: 5px;
-  background: #262336;
+  background: #623c62;
   color: #fff;
 }
 .template-section .btn:hover {
   background: white;
-  color: #262336;
+  color: #623c62;
 }
 .row {
   display: inherit;
@@ -271,4 +272,140 @@ h2 {
 }
 .contactoruiz #contacto a:hover {
   color: white;
+}
+/***INICIO**/
+#filosofia {
+  background: url(../img/filosofia.png) no-repeat center;
+  padding: 200px 0;
+}
+#filosofia p {
+  text-align: center;
+}
+#filosofia .contenedor {
+  max-width: 700px;
+  position: relative;
+  top: -100px;
+}
+#filosofia h2 {
+  font-size: 45px;
+}
+#ame h2 {
+  text-align: left;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 45px;
+}
+#videoame h2 {
+  font-size: 45px;
+}
+#videoame h2 span {
+  font-family: 'Alte Haas Grotesk';
+}
+#nuestraacademia {
+  padding: 150px 0;
+  background: url(../img/nuestraacademia.png) no-repeat center;
+}
+#nuestraacademia h2 {
+  text-shadow: 2px 2px 2px black;
+  font-size: 45px;
+  color: #d982bd;
+  line-height: 0.7em;
+}
+#nuestraacademia h2 span {
+  font-size: 24px;
+  font-family: 'Alte Haas Grotesk';
+  color: white;
+}
+#nuestraacademia .centro {
+  text-align: center;
+}
+#conoce {
+  padding: 150px 0;
+  background: url(../img/fondo1.png) no-repeat center;
+}
+#conoce h2 {
+  font-size: 45px;
+  position: relative;
+  text-align: left;
+}
+#conoce .pytha {
+  margin: 2em auto;
+  overflow: hidden;
+  padding: 1.5em 1.5em;
+  position: relative;
+  width: 413px;
+  /* ancho */
+  left: 150px;
+  z-index: 1;
+}
+#conoce .pytha p {
+  text-align: justify;
+}
+#renacimiento {
+  background: url(../img/renacimiento.png) no-repeat center;
+}
+#renacimiento .centro {
+  text-align: center;
+}
+#contacto_inicio {
+  background: url(../img/contacto.png) no-repeat center;
+}
+#contacto_inicio h2 {
+  color: white;
+  text-align: left;
+  font-size: 35px;
+  font-weight: normal;
+}
+#contacto_inicio h2.interes {
+  font-size: 24px;
+  position: relative;
+  top: 160px;
+}
+#contacto_inicio p {
+  color: white;
+  font-size: 1.0em;
+}
+#contacto_inicio .caldera-grid .form-control {
+  background-color: #623b62;
+  border: transparent;
+  border-radius: 4px;
+  box-shadow: inset 0 2px 2px rgba(0, 0, 0, 0.5);
+}
+#contacto_inicio .caldera-grid .form-control::placeholder,
+#contacto_inicio .caldera-grid .form-control {
+  color: #c483b6;
+  font-family: 'Alte Haas Grotesk';
+  font-weight: bold;
+}
+#contacto_inicio .btn {
+  font-size: 25px;
+  padding: 10px 30px!important;
+  border-radius: 4px;
+}
+#contacto_inicio .btn:hover {
+  color: #623c62;
+}
+#contacto_inicio #fld_3590124_1-wrap {
+  text-align: right;
+}
+#contacto_inicio a {
+  position: relative;
+  top: 160px;
+  color: white;
+  text-decoration: underline;
+}
+#contacto_inicio a:hover {
+  color: #623c62;
+  text-shadow: 2px 2px 2px black;
+}
+#contacto_inicio p.siguenos {
+  position: relative;
+  top: 200px;
+  color: white;
+}
+#contacto_inicio p.siguenos span {
+  font-weight: bold;
+  opacity: 0.5;
+  font-size: 20px;
+  margin-right: 5px;
 }

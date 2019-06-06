@@ -4,7 +4,89 @@
 ?>
      <?php echo do_shortcode('[rev_slider alias="pytha"]');
     ?>
- 
+ <section id="filosofia" class="template-section">
+     <div class="contenedor">
+     <h2>La Filosofía Pythagorica</h2>
+     <p>Pythagoras decía que: “el Propósito de la Escuela Pythagorica de 5 siglos A.C. era elevar a la raza humana y sus cerebros a que entiendan y busquen los valores más sublimes del Espíritu, por que tal búsqueda será para el encarnado, la única fuente de su felicidad". Cada discípulo de la Vida, captará el conocimiento de acuerdo a su nivel evolutivo. Además, <strong>la antigua Escuela de Filosofia Pythagorica y la actual buscan que los seres humanos perciban la vibración de sus Almas y con ello el inconmensurable Poder que pueden manejar para transformar sus psiquis y como consecuencia el mundo en el que viven.  Este “Poder” es el que hace evolucionar, no el poder humano… el Poder trascendental, el Poder Espiritual….</strong></p>
+     </div>
+</section>
+        <section id="ame" class="template-section">
+
+        <div class="contenedor">
+            <div class="grid invertido">
+               <div class="col">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/ame.png" alt="Acerca">
+                </div>
+                <div class="col">
+                   <h2>Ame Ruíz</h2>
+                    <p >
+                    La Dra. María Amelia Ruíz es Argentina, abogada, escritora, fundadora de la Academia de Filosofía Pythagorica (AC), Argentina-México, con un vasto material escrito en libros (12 volúmenes con varias ediciones, y otros solo en reproducciones internas; alrededor de 80), impartidos en talleres, retiros, seminarios, conferencias; desde hace treinta años en Argentina y veintiuno en las diversas sedes de México, ininterrumpidamente.
+                    </p>
+                  
+                    
+                </div>
+                 
+            </div>
+        </div>
+
+    </section>
+     <section id="videoame" class="template-section">
+     <div class="contenedor">
+     <h2> <span>Videos de</span> <br>
+Ame Ruíz</h2>
+     
+     </div>
+</section>
+<section id="nuestraacademia" class="template-section">
+     <div class="contenedor">
+     <h2> Conoce Nuestra Academia <br>
+     <span>y encuentra todos los Centros Pythagoricos que <br>
+esperan por ti en México y Argentina</span></h2>
+    <div class="centro">
+     <a href="#" class="btn">Saber más</a>
+     </div>
+     
+     </div>
+</section>
+
+<section id="conoce" class="template-section">
+         <div class="pytha">
+         <h2>Pythagoras </h2>
+         
+         <p>Conoce más acerca de el Maestro Pythagoras, de quien se decía era…filósofo, matemático, músico, médico, astrólogo, biólogo, físico, metafísico, y Maestro de Sabiduría Divina…. <strong>El creador de  Escuela Pythagorica de Divina Sabiduría de cinco siglos A. C.</strong></p>
+         </div>
+</section>
+<section id="renacimiento" class="template-section">
+        <div class="centro">
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/renacimiento_logo.png" alt="Acerca">
+    </div>
+</section>
+<section id="contacto_inicio" class="template-section">
+
+        <div class="contenedor">
+            <div class="grid">
+               <div class="col">
+                   <h2>Contáctanos</h2>
+                   <p>La FILOSOFIA PYTHAGORICA quiere ofrecerte una ventana por dónde entre LUZ para tu Yo y tu vida y una PUERTA para atravesar, donde puedas encontrar las respuestas y las salidas a todos tus problemas, hasta las situaciones más engorrosas de tu vida…</p>
+                   <?php echo do_shortcode('[caldera_form id="CF5cf965e5a3c39"]');
+    ?>
+                </div>
+                <div class="col">
+                   <h2 class="interes">Enlaces de Interés</h2>
+                    <a href="">Centros Pythagoricos en Argentina</a> <br>
+                    <a href="">Centros Pythagoricos en México</a><br>
+                    <a href="">Seminarios Europa 2019 </a><br>
+                    <a href="">Seminarios México 2019 </a><br>
+                    <a href="">Actividades  Argentina 2019 </a><br>
+                    <a href="">Seminarios Usa 2019   </a><br>
+                 <p class="siguenos"> <span>Síguenos en</span> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/face.png" alt="Facebook"> </p>
+                    
+                </div>
+                 
+            </div>
+        </div>
+
+    </section>
 <?php 
     get_footer();
 ?>
