@@ -59,6 +59,8 @@ esperan por ti en México y Argentina</span></h2>
 <section id="renacimiento" class="template-section">
         <div class="centro">
         <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/renacimiento_logo.png" alt="Acerca">
+        
+        <?php echo do_shortcode('[vc_row][vc_column][woodmart_blog items_per_page="6" blog_design="masonry" img_size="200x100" parts_title="1" parts_meta="1" parts_text="1" parts_btn="1" lazy_loading="no" blog_columns="3"][/vc_column][/vc_row]');?>
     </div>
 </section>
 <section id="contacto_inicio" class="template-section">
