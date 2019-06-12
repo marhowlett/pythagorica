@@ -107,10 +107,255 @@ Futuro: “Recorre con la energía lo que luego recorrerás con los pies”
 </section>
 <section id="devocion" class="template-section">
 <div class="contenedor">
-<h3 >2) THE WORLD OF EACH ONE:</h3>
-<p>Past: conception, gestation, birth, childhood, adolescence, youth, adulthoodtillthepresent. Chaoticcircumstancesthatwewentthrough.</p>
-<p>Present: "TheVessel of theday and theVessel of thenight"</p>
-<p>Future: "Travelin  energywhatyouwillafterwalkwithyourfeet"</p>
+<h3 >Registration dead line May 20 - LIMITED AVAILABILITY -</h3>
+
+</div>
+</section>
+
+
+<section id="cuerpo2" class="template-section">
+     <div class="contenedor">
+     <h3>3) LIFE AND  MAIN LAWS THAT GOVERN EVERYTHING THAT´S BEING CREATED:</h3>
+     <p>   *** LAW OF  CIRCLE AND LAW OF MAGNETISM</p>
+<p>   *** LAW OF EVOLUTION</p>
+<p>   *** LAW OF PLURALITY OF HUMAN LIVES</p>
+</div>
+</section>
+<section id="cuerpo2" class="template-section">
+     <div class="contenedor">
+    <p>2/ Die Welt jedeseinzelnen.</p>
+    <p>Vergangenheit, Gegenwart, Zukunft </p>
+    <p>Vergangenheit: Entbindung, Schwangerschaft, Geburt, Kindheit, Adoleszenz, Jugend, biszurGegenwart.  </p>
+    <p>ChaotischegelebteUmständen.</p>
+    <p>Gegenwart: „ das Boot des Tages, das Boot der Nacht“ </p>
+    <p>Zukunft: „bereiseheutemitEnergie was du spätermitdeinenFüßenbereist“</p>
+</div>
+</section>
+
+
+<section id="asistir" class="template-section">
+     <div class="contenedor">
+
+<p>You want to attend?</p>
+<p>Download the PDF to know the dates and places where this workshop will be held</p>
+
+<div class="centro">
+ <a href="#" class="btn">Download PDF</a>
+         </div>
+</div>
+</section>
+
+<section id="devocion" class="template-section">
+<div class="contenedor">
+<p>Die Mexikanische und Argentinische Pythagoreische Philosophie Akademie (e.V.) stellen die Vorlesung der Pythagoreischen Philosophievor. Erteiltdurch seiner Begründerin Frau Dr. Maria Amelia Ruiz. (Seit 30 Jahren in Argentinien und 21 in Mexikoerteiltsie Seminare, Workshops und Vorträge in verschiedeneLändern) Schriftstellerin der „Pythagoreischen Philosophie Zusammenfassung“ (80 Bücher).</p>
+
+</div>
+</section>
+
+<section id="devocion" class="template-section">
+<div class="contenedor">
+<p>1/ Die Geheimnisse des Seins in jedemKörper </p>
+<p>*** Psychischer und physischerKörper: Analyse des „AlchemieGefäßes“, die Psyche, Verhaltensmuster, UmgangmitGefühlen. Der Charakter. Umgangmit den fünfSinne. „RessOssi“ gierigerAppetit der Psyche auf bestimmteGeschmäcke, Wünsche, Bedürfnisse, Verlangen. Die vier Seiten des Charakters. Die Code. IndividuellekurzegenetischeAnalyse.</p>
+<p>*** das ätherischeDoppel, der energetischeKörper, die vierte Dimension und ihreEigenschaften. </p>
+<p>*** der spirituelleKörper: die Seele und der unsterblicheVerstand. Seine Identifizierung und Eigenschaften. Die fünfte Dimension. </p>
+<p>***KurzerüberblicküberNumerologie. Das Geburtsdatum, die Herausforderungen dieses Lebens. </p>
+
+</div>
+</section>
+
+<section id="devocion" class="template-section">
+<div class="contenedor">
+<p>3/ Das Leben und die Hauptgesetze, die dieSchöpfungsordnungregieren.</p>
+<p>***Kreisgesetz und Magnetismusgesetz</p>
+<p>***Gesetz der Evolution </p>
+<p>***Gesetz der Menschenlebensvielfältigkeit</p>
+</div>
+</section>
+<section id="devocion" class="template-section">
+<div class="contenedor">
+<p>Übersetzt ins englische: Psychologin María José Gonzalez Matta</p>
+<p>Ausbilderin und Gründerin der Pythagoreischen Schule in Veracruz, Mexiko.</p>
+<p>Organisatorin der Veranstaltung .. Dulce Marquinez.</p>
+</div>
+</section>
+
+
+
+
+<section id="asistir" class="template-section">
+     <div class="contenedor">
+
+<p>Sie möchten teilnehmen?</p>
+<p>Laden Sie das PDF-Dokument herunter, um die Termine und Orte zu erfahren, an denen der Workshop stattfinden wird</p>
+
+<div class="centro">
+ <a href="#" class="btn">Herunterladen PDF</a>
+         </div>
+</div>
+</section>
+
+
+
+
+<!--- EJEMPLOOOO -->
+
+<section id="ejemplosemi" class="template-section">
+     <div class="contenedor">
+
+<h2>Seminario México <span>2019</span> </h2>
+<h3>“Recupera tu propia Identidad Espiritual. Enciende los tres sitios sagrados de tu cuerpo”.</h3>
+</div>
+</section>
+
+
+<section id="devocion" class="template-section">
+<div class="contenedor">
+<p>Inicia el camino de regreso a ti mismo, mientras haces y hablas.¿Qué tiene en ti Divina permanencia?: ESO ERES Y, lo que “ES” (tu Alma y Mente Inmortal), jamás rinde culto a lo que “NO ES” (tu psiquis, ego o personalidad). “NO ES” porque sube y baja en el día, pues si no está cultivada por el Alma, suele ser inestable.</p>
+<p>La Vida del Discípulo de Dios, no es una respuesta. La Mente Inmortal es la que devela el propio Camino; un Plan de Vida Feliz.  En cambio, la psiquis es “el salón de los ecos”, refleja la energía del afuera. El Discípulo de la vida adiestra a su psiquis para que haga su Camino, y no se pase las horas del día solo respondiendo.</p>
+<p>La Vida del Discípulo de Dios, no es una respuesta. La Mente Inmortal es la que devela el propio Camino; un Plan de Vida Feliz.  En cambio, la psiquis es “el salón de los ecos”, refleja la energía del afuera. El Discípulo de la vida adiestra a su psiquis para que haga su Camino, y no se pase las horas del día solo respondiendo.</p>
+</div>
+</section>
+<section id="asistir" class="template-section">
+     <div class="contenedor">
+
+<h2>¿Quieres asistir? </h2>
+<p>Descarga el PDF para conocer las fechas y lugares donde se impartirá este taller</p>
+
+<div class="centro">
+ <a href="#" class="btn">Descargar PDF</a>
+         </div>
+</div>
+</section>
+
+
+
+
+<section id="ejemplosemi" class="template-section">
+     <div class="contenedor">
+
+<h2>Argentina <span>2019</span> </h2>
+<h3>Infórmate de las actividades impartidas por la Dra. Ame Ruiz en Argentina.</h3>
+</div>
+</section>
+
+
+<section id="cuerpo2" class="template-section">
+     <div class="contenedor">
+    <p>Conoce los diferentes sitios en los que se trasmite la <strong>Filosofía Pythagorica</strong> en Argentina.</p>
+    <p>BUENOS AIRES, CORDOBA, RIO CUARTO, NEUQUEN.</p>
+    <p><strong>Durante 30 años se ha mantenido la modalidad de trabajo con “grupos cerrados”</strong>, en las diversas sedes, para así poder ir avanzando en el aprendizaje de los variados ámbitos de está vastísima filosofía, que abarca casi todos los aspectos del vivir.</p>
+</div>
+</section>
+
+
+<section id="devocion" class="template-section">
+<div class="contenedor">
+<p><strong>En este 2019, estamos en proceso de apertura al mundo</strong>, para poder ofrecer lo aprendido, sentido y vivido -aunque sea en una medida-, por mucha gente de diferente extracción social, racial, religiosa y cultural. </p>
+<p>Ello requiere que encaremos cambios en las modalidades existentes actualmente, lo cual lo iremos informando, según los ritmos en los que podamos plasmarlos.
+</p>
+<p>En la modalidad de trabajo, en <strong>“grupos cerrados”, se realiza un Encuentro Nacional por año, en el mes de octubre, desde el año 2006.</strong></p>
+</div>
+</section>
+<section id="asistir" class="template-section">
+     <div class="contenedor">
+
+<h2>¿Quieres asistir? </h2>
+<p>Descarga el PDF para conocer las fechas y lugares donde se impartirá este taller</p>
+
+<div class="centro">
+ <a href="#" class="btn">Descargar PDF</a>
+         </div>
+</div>
+</section>
+
+
+
+
+<section id="devocion" class="template-section">
+<div class="contenedor">
+<h3 class="calendario">PLACES WHERE THE SEMINAR WILL BE PROVIDED</h3>
+</div>
+</section>
+<section id="devocion" class="template-section">
+<div class="contenedor">
+<h3 class="calendario2">INFORMATION OF SCHEDULES AND COSTS <br>
+(Vienna, Munich and Bilbao)</h3>
+</div>
+</section>
+
+
+
+<section id="buenosaires" class="template-section">
+
+        <div class="contenedor">
+            <div class="grid">
+               <div class="col">
+                  <img class="alignnone size-full wp-image-128" src="http://previo.escuelapythagorica.org/wp-content/uploads/2019/06/ubicacion.png" alt="" width="59" height="59" />
+                   
+                </div>
+                <div class="col">
+                   <p class="conta3">June 1 & 2<br>
+                   <strong> VIENA, Austria: </strong>
+                   </p>
+                    
+                </div>
+                 
+            </div>
+        </div>
+
+    </section>
+    
+    
+    <section id="buenosaires" class="template-section">
+
+        <div class="contenedor">
+            <div class="grid">
+               <div class="col">
+                   <img class="alignnone wp-image-131 size-full" src="http://previo.escuelapythagorica.org/wp-content/uploads/2019/06/whatsapp-logo.png" alt="" width="58" height="58" />
+                   
+                </div>
+                <div class="col">
+                   <p class="conta3">Contact with:</p>
+                    
+                </div>
+                 
+            </div>
+        </div>
+
+    </section>
+    
+<section id="buenosaires" class="template-section">
+<div class="contenedor num">
+
+<p class="conta2">+ 549 2995248350  <strong> Lili Barbieri </strong></p>
+
+
+
+</div>
+</section>
+    
+<section id="buenosaires" class="template-section">
+<div class="contenedor num">
+
+<p class="conta2"><strong>Robert Weil. </strong>+43 660 2072070 <br>
+<strong>Dulce Marquínez.  </strong>+52 1 229 2643382 <br> 
+<strong>Mari Jose Glez. Mata   </strong>+34 689 820611   </p>
+
+
+</div>
+</section>
+
+<section id="informa" class="template-section">
+<div class="contenedor">
+
+<h2>Schedule:</h2>
+<p>SATURDAY
+Morning: Registration 9:30  
+Start time 10:00
+Lunch: 14: 00 -16: 00
+Afternoon: 16:00  - 19:30 
+SUNDAY 10: 00 - 14: 00</p>
+
 
 </div>
 </section>

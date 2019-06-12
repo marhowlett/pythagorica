@@ -75,8 +75,9 @@
          <p>La <strong>Escuela Pythagorica</strong> quiere generar seres completamente libres. Por eso es que el despertar el propio Maestro Interior, nos hace despertar con verdad y humildad la propia psiquis y visualizar el Camino de transformación para que despertando virtudes del Alma se lo pueda transitar. Se entiende que el Poder de plasmar la auténtica Felicidad, se basa en el adiestramiento diario de nuestra voluntad para que se oriente al servicio del Bien y no al servicio de nuestra propia psiquis, sus deseos, banalidades y vanidades….</p>
        </div>
 </section>
-   
-  <?php include 'contacto.php'; ?>
+ <div class="contactoruiz">
+    <?php include 'contacto.php'; ?>
+</div>
  
 <?php 
     get_footer();

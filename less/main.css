@@ -31,6 +31,9 @@ h2 {
   max-width: 100%;
   width: 100%;
 }
+.main-page-wrapper {
+  padding-top: inherit;
+}
 /*Esquema por defecto para las secciones*/
 .grid {
   display: flex;
@@ -46,6 +49,15 @@ h2 {
 .cont {
   padding: 60px;
 }
+.cont2 {
+  padding: 60px;
+  margin-top: 50px;
+}
+/**MENU**/
+.whb-color-dark .navigation-style-bordered .item-level-0 > a,
+.whb-color-dark .navigation-style-separated .item-level-0 > a {
+  color: #623c62;
+}
 .template-section {
   padding: 50px 0;
 }
@@ -59,16 +71,16 @@ h2 {
   padding: 60px;
 }
 .template-section h1 {
-  color: #262336;
+  color: #623c62;
   font-family: 'Nature Beauty Personal Use';
-  font-weight: bold;
+  font-weight: normal;
   font-size: 68px;
 }
 .template-section h2 {
-  color: #262336;
+  color: #623c62;
   font-family: 'Nature Beauty Personal Use';
   font-size: 24px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 1.3em;
 }
 .template-section h3 {
@@ -112,6 +124,7 @@ h2 {
   border-radius: 5px;
   background: #623c62;
   color: #fff;
+  font-weight: normal;
 }
 .template-section .btn:hover {
   background: white;
@@ -314,15 +327,15 @@ h2 {
   background: url(../img/nuestraacademia.png) no-repeat center;
 }
 #nuestraacademia h2 {
-  text-shadow: 2px 2px 2px black;
   font-size: 45px;
-  color: #d982bd;
+  color: #262336;
   line-height: 0.7em;
 }
 #nuestraacademia h2 span {
+  font-weight: bold;
   font-size: 24px;
   font-family: 'Alte Haas Grotesk';
-  color: white;
+  color: #623c62;
 }
 #nuestraacademia .centro {
   text-align: center;
@@ -374,7 +387,7 @@ h2 {
   font-size: 1.0em;
 }
 #contacto_inicio .caldera-grid .form-control {
-  background-color: #623b62;
+  background-color: white;
   border: transparent;
   border-radius: 4px;
   box-shadow: inset 0 2px 2px rgba(0, 0, 0, 0.5);
@@ -396,15 +409,22 @@ h2 {
 #contacto_inicio #fld_3590124_1-wrap {
   text-align: right;
 }
-#contacto_inicio a {
+#contacto_inicio a.enlace {
   position: relative;
   top: 160px;
   color: white;
   text-decoration: underline;
 }
-#contacto_inicio a:hover {
+#contacto_inicio a.enlace:hover {
   color: #623c62;
   text-shadow: 2px 2px 2px black;
+}
+#contacto_inicio a.sigue {
+  font-weight: bold;
+  opacity: 0.5;
+  font-size: 20px;
+  margin-right: 5px;
+  color: white;
 }
 #contacto_inicio p.siguenos {
   position: relative;
@@ -440,6 +460,9 @@ h2 {
   padding: 60px;
   margin-top: 40px;
 }
+#cuerpo2 {
+  padding: 60px;
+}
 .back1 {
   background: url(../img/simbolo%20pantalla.png) no-repeat center;
 }
@@ -450,6 +473,13 @@ h2 {
 .menuback2 {
   background: url(../img/Capa%2052.png) no-repeat center;
   padding: 100px;
+}
+.menuback3 {
+  background: url(../img/mexikansische.png) no-repeat center;
+  padding: 100px;
+}
+.menuback3 p {
+  margin-top: -90px;
 }
 #devocion {
   padding: inherit;
@@ -464,6 +494,18 @@ h2 {
 #devocion h3.vida {
   margin-bottom: -40px;
   margin-top: 40px;
+}
+#devocion h3.calendario {
+  padding-top: 20px;
+  margin-bottom: -20px;
+  font-size: 30px;
+  text-align: center;
+}
+#devocion h3.calendario2 {
+  margin-bottom: 145px;
+  margin-top: 115px;
+  font-size: 30px;
+  text-align: center;
 }
 #devocion .contenedor {
   max-width: 1015px;
@@ -488,4 +530,193 @@ h2 {
 #DEVELATION h3 {
   font-size: 1.7em;
   text-align: center;
+}
+.reset-mb-10 {
+  margin-top: 20px;
+}
+#ejemplosemi h2 {
+  font-size: 45px;
+}
+#ejemplosemi h2 span {
+  font-family: 'Alte Haas Grotesk';
+}
+#ejemplosemi h3 {
+  text-align: center;
+}
+body.page-id-125 .vc_row-has-fill > .vc_column_container > .vc_column-inner,
+body.page-id-125 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-inner {
+  margin-bottom: -85px;
+  margin-top: -85px;
+}
+body.page-id-148 .vc_row-has-fill > .vc_column_container > .vc_column-inner,
+body.page-id-148 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-inner {
+  margin-bottom: -115px;
+  margin-top: -115px;
+}
+body.page-id-195 .vc_row-has-fill > .vc_column_container > .vc_column-inner,
+body.page-id-195 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-inner {
+  margin-bottom: -115px;
+  margin-top: -115px;
+}
+body.page-id-218 .vc_row-has-fill > .vc_column_container > .vc_column-inner,
+body.page-id-218 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-inner {
+  margin-bottom: -115px;
+  margin-top: -115px;
+}
+body.page-id-245 .vc_row-has-fill > .vc_column_container > .vc_column-inner,
+body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-inner {
+  margin-bottom: -115px;
+  margin-top: -115px;
+}
+#buenosaires .col {
+  min-height: inherit;
+  padding: 10px;
+}
+#buenosaires img {
+  position: relative;
+  float: right;
+}
+#buenosaires img.ubicacion {
+  margin-top: 20px;
+}
+#buenosaires img.ubicacion3 {
+  margin-top: 30px;
+}
+#buenosaires img.ubicacion2 {
+  margin-top: 10px;
+}
+#buenosaires p.conta {
+  margin-top: 10px;
+}
+#buenosaires p.conta2 {
+  margin-top: 30px;
+}
+#buenosaires p.conta3 {
+  margin-top: 20px;
+}
+#buenosaires p.maria {
+  position: relative;
+  top: 10px;
+}
+#buenosaires .num {
+  padding: 10px;
+}
+#buenosaires .template-section {
+  padding: initial;
+}
+.yottie-widget-header-inner {
+  display: none!important;
+}
+.mobile-nav-icon {
+  background-color: #623c62;
+  padding: 20px;
+  margin-right: -5px;
+}
+.woodmart-burger {
+  color: white;
+}
+#informa {
+  padding: inherit;
+}
+#informa h2 {
+  text-align: left;
+}
+#informa p,
+#informa h2 {
+  position: relative;
+  left: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+#lunch {
+  position: relative;
+  left: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+@media screen and (max-width: 750px) {
+  .whb-general-header {
+    background-color: white;
+  }
+  .rev-btn {
+    font-size: 20px!important;
+    line-height: 20px!important;
+    padding: 6px 20px!important;
+  }
+}
+@media screen and (max-width: 750px) {
+  /*LOGO*/
+  .whb-scroll-stick .woodmart-logo img {
+    padding-top: 0;
+    transform: scale(2) translateY(15px);
+  }
+  canvas {
+    touch-action: auto !important;
+  }
+  .scene-nav {
+    display: none;
+  }
+  /*Esquema por defecto para las secciones*/
+  .grid {
+    display: initial;
+  }
+  .grid .col {
+    width: 100%;
+  }
+  .grid .col2 {
+    width: 100%;
+  }
+  .grid.invertido {
+    flex-wrap: wrap-reverse;
+  }
+  .template-section a.btn {
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+    padding: 15px;
+    margin-left: 10px!important;
+    margin-right: 10px;
+  }
+  .template-section {
+    text-align: center;
+  }
+  .template-section .col {
+    min-height: auto;
+    padding: 20px;
+  }
+  .template-section h1 {
+    font-size: 36px;
+  }
+  #filosofia {
+    padding: 130px 0;
+  }
+  #filosofia p {
+    text-align: center;
+    margin: auto auto;
+    max-width: 300px;
+  }
+  #conoce .pytha {
+    width: inherit;
+    left: inherit;
+  }
+  #renacimiento img {
+    position: relative;
+    bottom: 30px;
+  }
+  #contacto_inicio h2.interes {
+    text-align: center;
+    top: inherit;
+  }
+  #contacto_inicio a.enlace {
+    top: inherit;
+  }
+  #banneruiz {
+    background: url(../img/ameruiz_movil.png) no-repeat center;
+  }
+  #invitar .contenedor {
+    max-width: 300px;
+  }
+  #contacto .contenedor {
+    max-width: 300px;
+  }
 }

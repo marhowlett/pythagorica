@@ -43,6 +43,9 @@
 
 <section id="videos" class="template-section">
 <h2><span>Videos de</span> <br>Ame Ruíz</h2>
+<?php echo do_shortcode('[elfsight_youtube_gallery id="1"]');?>
+
+
 </section>
 
 <div class="contactoruiz">

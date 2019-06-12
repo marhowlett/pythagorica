@@ -34,7 +34,7 @@
      <div class="contenedor">
      <h2> <span>Videos de</span> <br>
 Ame Ruíz</h2>
-     
+     <?php echo do_shortcode('[elfsight_youtube_gallery id="1"]');?>
      </div>
 </section>
 <section id="nuestraacademia" class="template-section">
@@ -75,13 +75,13 @@ esperan por ti en México y Argentina</span></h2>
                 </div>
                 <div class="col">
                    <h2 class="interes">Enlaces de Interés</h2>
-                    <a href="">Centros Pythagoricos en Argentina</a> <br>
-                    <a href="">Centros Pythagoricos en México</a><br>
-                    <a href="">Seminarios Europa 2019 </a><br>
-                    <a href="">Seminarios México 2019 </a><br>
-                    <a href="">Actividades  Argentina 2019 </a><br>
-                    <a href="">Seminarios Usa 2019   </a><br>
-                 <p class="siguenos"> <span>Síguenos en</span> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/face.png" alt="Facebook"> </p>
+                    <a href="" class="enlace">Centros Pythagoricos en Argentina</a> <br>
+                    <a href="" class="enlace">Centros Pythagoricos en México</a><br>
+                    <a href="" class="enlace">Seminarios Europa 2019 </a><br>
+                    <a href="" class="enlace">Seminarios México 2019 </a><br>
+                    <a href="" class="enlace">Actividades  Argentina 2019 </a><br>
+                    <a href="" class="enlace">Seminarios Usa 2019   </a><br>
+                 <p class="siguenos"> <a href="https://www.facebook.com/Academia-de-Filosof%C3%ADa-Pythag%C3%B3rica-Frase-para-tu-Hoy-505093299656751/" class="sigue"> <span>Síguenos en</span></a> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/face.png" alt="Facebook"> </p>
                     
                 </div>
                  
