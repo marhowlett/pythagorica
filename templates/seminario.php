@@ -359,3 +359,15 @@ SUNDAY 10: 00 - 14: 00</p>
 
 </div>
 </section>
+
+
+
+
+<section id="devocion" class="template-section">
+<div class="contenedor">
+<h2>Nuestros Centros Pytagóricos
+</h2>
+<p>Los Centros Pythagoricos son sostenidos por instructores autorizados por la Academia de Filosofía Pythagorica A.C.,que con su trabajo rítmico de impartir el conocimiento semanalmente a grupos de personas comprometidas sostienen una energía de expansión del mismo.</p>
+<h3>Actualmente contamos con centros en México, Argentina y España.</h3>
+</div>
+</section>

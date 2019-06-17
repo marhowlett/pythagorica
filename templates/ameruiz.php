@@ -4,9 +4,9 @@
 ?>
 
     <section id="banneruiz" class="template-section">
-       <h1>Ame Ruíz </h1>
+       <h1>Ame Ruiz </h1>
        <div class="dra">
-           <p>La Dra. María Amelia Ruíz es Argentina, abogada, escritora, fundadora de la Academia de Filosofía Pythagorica (AC), Argentina-México, con un vasto material escrito en libros (12 volúmenes con varias ediciones, y otros solo en reproducciones internas; alrededor de 80), impartidos en talleres, retiros, seminarios, conferencias; desde hace treinta años en Argentina y veintiuno en las diversas sedes de México, ininterrumpidamente.</p>
+           <p>La Dra. María Amelia Ruiz es Argentina, abogada, escritora, fundadora de la Academia de Filosofía Pythagorica (AC), Argentina-México, con un vasto material escrito en libros (12 volúmenes con varias ediciones, y otros solo en reproducciones internas; alrededor de 80), impartidos en talleres, retiros, seminarios, conferencias; desde hace treinta años en Argentina y veintiuno en las diversas sedes de México, ininterrumpidamente.</p>
        </div>
     </section >
  
@@ -42,7 +42,7 @@
 </section>
 
 <section id="videos" class="template-section">
-<h2><span>Videos de</span> <br>Ame Ruíz</h2>
+<h2><span>Videos de</span> <br>Ame Ruiz</h2>
 <?php echo do_shortcode('[elfsight_youtube_gallery id="1"]');?>
 
 

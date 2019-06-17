@@ -89,7 +89,6 @@ h2 {
   font-size: 1.4em;
 }
 .template-section p.de {
-  font-size: 24px;
   font-weight: bold;
 }
 .template-section p,
@@ -105,7 +104,7 @@ h2 {
 }
 .template-section ul li::before {
   content: "•";
-  color: #262336;
+  color: #623c62;
   padding-right: 10px;
   position: absolute;
   left: -15px;
@@ -174,18 +173,29 @@ h2 {
   max-width: 800px;
 }
 #principios {
-  background: url(../img/pita.png) no-repeat center;
+  background: url(../img/pita4.png) no-repeat center;
   text-align: center;
-  padding: 475px 0;
+  padding: 235px 0;
 }
 #principios .contenedor {
   max-width: 430px;
   position: relative;
-  top: 240px;
 }
 #principios p {
   text-align: justify;
   text-align-last: center;
+}
+#principios .contenedor2 {
+  max-width: 800px;
+  margin: 0 auto;
+}
+#principios .principios {
+  position: relative;
+  top: -50px;
+}
+#principios .contenedor3 {
+  position: relative;
+  top: 50px;
 }
 #aprende {
   background: url(../img/pita2.png) no-repeat center;
@@ -510,6 +520,12 @@ h2 {
 #devocion .contenedor {
   max-width: 1015px;
 }
+#devocion2 {
+  color: white;
+}
+#devocion2 .contenedor {
+  max-width: 1015px;
+}
 .vc_row-flex {
   min-height: 66.6667vh!important;
 }
@@ -598,6 +614,10 @@ body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
   position: relative;
   top: 10px;
 }
+#buenosaires p.maria2 {
+  position: relative;
+  top: 20px;
+}
 #buenosaires .num {
   padding: 10px;
 }
@@ -633,6 +653,34 @@ body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
   left: 80px;
   padding-left: 50px;
   padding-right: 50px;
+}
+.post-type-archive .row {
+  display: flex;
+}
+.page-title.color-scheme-light .entry-title {
+  visibility: hidden;
+}
+.product-template-default .row {
+  display: flex;
+}
+.product-template-default .summary-inner {
+  margin-top: 20px;
+}
+.product-template-default .product-tabs-wrapper {
+  display: none;
+}
+#tienda h2 {
+  font-size: 50px;
+}
+@media screen and (min-width: 1530px) {
+  #principios .principios {
+    position: relative;
+    top: -87px;
+  }
+  #principios {
+    padding: 468px 0;
+    background: url(../img/pita3.png);
+  }
 }
 @media screen and (max-width: 750px) {
   .whb-general-header {
@@ -684,6 +732,10 @@ body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
     min-height: auto;
     padding: 20px;
   }
+  .template-section .cont {
+    min-height: auto;
+    padding: 20px;
+  }
   .template-section h1 {
     font-size: 36px;
   }
@@ -712,11 +764,87 @@ body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
   }
   #banneruiz {
     background: url(../img/ameruiz_movil.png) no-repeat center;
+    padding: 170px 0;
+  }
+  #banneruiz h1,
+  #banneruiz .dra {
+    position: relative;
+    top: -160px;
+    left: inherit;
+  }
+  #banneruiz .dra {
+    width: 350px;
+    padding: 0.5em 0.5em;
   }
   #invitar .contenedor {
     max-width: 300px;
   }
   #contacto .contenedor {
     max-width: 300px;
+  }
+  #banner {
+    background: url(../img/banner2_movil.jpg) no-repeat center;
+  }
+  #banner h1 {
+    text-align: center;
+    position: relative;
+    top: 145px;
+    left: inherit;
+  }
+  #organizacion {
+    background: url(../img/organizacion.png) no-repeat center;
+    padding: 38px 0;
+  }
+  #escuela {
+    background: url(../img/escuela_movil.jpg) no-repeat center;
+    padding: 50px 0;
+  }
+  #escuela .contenedor {
+    max-width: 300px;
+  }
+  #escuela p.finalidad {
+    margin-top: inherit;
+  }
+  #plasmar {
+    margin-top: inherit;
+  }
+  #plasmar .col {
+    margin-top: inherit;
+  }
+  #decia {
+    padding: 50px 0;
+  }
+  #decia .contenedor {
+    max-width: 300px;
+  }
+  #principios {
+    background: url(../img/pita4_movil2.png) no-repeat center;
+  }
+  #principios .contenedor {
+    max-width: 300px;
+  }
+  #principios .contenedor2 {
+    max-width: 300px;
+    position: relative;
+    top: 100px;
+  }
+  .vc_tta-panel-body,
+  .vc_tta-panel-heading {
+    margin-left: -40px;
+  }
+  .wpb-js-composer .vc_tta.vc_general .vc_tta-panel {
+    padding-left: inherit;
+    padding-right: inherit;
+  }
+  #buenosaires .grid {
+    display: flex;
+  }
+  #informa p,
+  #informa h2 {
+    position: relative;
+    text-align: center;
+    left: inherit;
+    padding-left: initial;
+    padding-right: inherit;
   }
 }

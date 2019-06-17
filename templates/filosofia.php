@@ -52,27 +52,23 @@
           </div>
 </section>
   <section id="principios" class="template-section">
-         <div class="contenedor">
+         <div class="contenedor principios">
          <h2>Principios  Fundamentales</h2>
          <p>Los principios fundamentales de esta filosofía están representados y explicados por las leyes que rigen todo lo creado. <strong> Como entender la simpleza de que el fuego quema y el agua moja… </strong></p>
          <p>Así de simple, devela Pythagoras las Leyes que explican todo lo creado y la propia existencia de cada ser humano, como ser individual y único... así uno aprende a entenderse a sí mismo, en su parte inmortal y en su parte mortal hasta en detalle; como ser la herencia genética de su encarnación actual, su familia de origen, su raza. Se aprende a explicar el por qué y para qué del mundo que nos rodea. </p>
          <p class="de">Y con ello el encarnado devela por fin “qué es” la Misteriosa Vida…</p>
       </div>
-</section>
- 
- <section id="aprende" class="template-section">
-         <div class="contenedor">
+
+         <div class="contenedor2">
          <h2>Qué se aprende y enseña</h2>
          <p>En la Escuela Pythagorica aprendemos el manejo de lo Mortal y el manejo de lo I­nmortal. Si no despertamos a la real Conciencia de lo Inmortal no podremos manejar lo Mortal. </p>
          <p>Es decir, lo que es fuente y raíz de nuestras aflicciones: los deseos… o lo que es lo mismo, nuestros gustos, necesidades, requerimientos, apetencias; nuestro carácter; el manejo de los cinco sentidos; el manejo de las inestables emociones, que para Pythagoras son cerebrales (hemisferio cerebral derecho), y nada tienen que ver con los sentimientos profundos y estables que están en el Alma. </p>
          <p>Es vital que el ser humano se reconozca a sí mismo través del fluido de su propia Alma atravesando su cerebro y su cuerpo. Que la sienta, que la perciba en sus células en sus moléculas… Que pueda sentir a su Alma vibrando en sus manos, vibrando en su voz, vibrando en su forma de mirar.</p>
          <p> Es vital entender que somos seres inmortales viajando en el mundo mortal. Nos metemos en este envase carnal y sólo lo Inmortal tiene manejo sobre lo Mortal. Por eso es que Pythagoras señala como Principio básico a sus discípulos: “nadie tiene poder sobre ti, sólo Dios y tu parte Inmortal, no te dejes manejar por nadie, ni por nada” …</p>
-      </div>
-</section>
-   <section id="despertar" class="template-section">
-         <div class="contenedor">
-         <p>Por eso la Filosofía Pythagorica quiere <strong>despertar al Maestro Interior….</strong> y sostiene “no hay Maestros en esta tierra” salvo el Cristo, o seres muy superiores que cuando oran vencen la Ley de la Gravedad, el resto somos madero horizontal de la cruz. </p>
+        <div class="contenedor3">
+          <p>Por eso la Filosofía Pythagorica quiere <strong>despertar al Maestro Interior….</strong> y sostiene “no hay Maestros en esta tierra” salvo el Cristo, o seres muy superiores que cuando oran vencen la Ley de la Gravedad, el resto somos madero horizontal de la cruz. </p>
          <p>La <strong>Escuela Pythagorica</strong> quiere generar seres completamente libres. Por eso es que el despertar el propio Maestro Interior, nos hace despertar con verdad y humildad la propia psiquis y visualizar el Camino de transformación para que despertando virtudes del Alma se lo pueda transitar. Se entiende que el Poder de plasmar la auténtica Felicidad, se basa en el adiestramiento diario de nuestra voluntad para que se oriente al servicio del Bien y no al servicio de nuestra propia psiquis, sus deseos, banalidades y vanidades….</p>
+         </div>
        </div>
 </section>
  <div class="contactoruiz">

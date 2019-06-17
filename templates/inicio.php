@@ -18,9 +18,9 @@
                     <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/ame.png" alt="Acerca">
                 </div>
                 <div class="col">
-                   <h2>Ame Ruíz</h2>
+                   <h2>Ame Ruiz</h2>
                     <p >
-                    La Dra. María Amelia Ruíz es Argentina, abogada, escritora, fundadora de la Academia de Filosofía Pythagorica (AC), Argentina-México, con un vasto material escrito en libros (12 volúmenes con varias ediciones, y otros solo en reproducciones internas; alrededor de 80), impartidos en talleres, retiros, seminarios, conferencias; desde hace treinta años en Argentina y veintiuno en las diversas sedes de México, ininterrumpidamente.
+                    La Dra. María Amelia Ruiz es Argentina, abogada, escritora, fundadora de la Academia de Filosofía Pythagorica (AC), Argentina-México, con un vasto material escrito en libros (12 volúmenes con varias ediciones, y otros solo en reproducciones internas; alrededor de 80), impartidos en talleres, retiros, seminarios, conferencias; desde hace treinta años en Argentina y veintiuno en las diversas sedes de México, ininterrumpidamente.
                     </p>
                   
                     
@@ -33,7 +33,7 @@
      <section id="videoame" class="template-section">
      <div class="contenedor">
      <h2> <span>Videos de</span> <br>
-Ame Ruíz</h2>
+Ame Ruiz</h2>
      <?php echo do_shortcode('[elfsight_youtube_gallery id="1"]');?>
      </div>
 </section>
@@ -43,7 +43,7 @@ Ame Ruíz</h2>
      <span>y encuentra todos los Centros Pythagoricos que <br>
 esperan por ti en México y Argentina</span></h2>
     <div class="centro">
-     <a href="#" class="btn">Saber más</a>
+     <a href="http://escuelapythagorica.org/filosofia/" class="btn">Saber más</a>
      </div>
      
      </div>
@@ -60,7 +60,7 @@ esperan por ti en México y Argentina</span></h2>
         <div class="centro">
         <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/renacimiento_logo.png" alt="Acerca">
         
-        <?php echo do_shortcode('[vc_row][vc_column][woodmart_blog items_per_page="6" blog_design="masonry" img_size="200x100" parts_title="1" parts_meta="1" parts_text="1" parts_btn="1" lazy_loading="no" blog_columns="3"][/vc_column][/vc_row]');?>
+        <?php echo do_shortcode('[vc_row][vc_column][woodmart_blog items_per_page="3" blog_design="masonry" img_size="200x100" parts_title="1" parts_meta="1" parts_text="1" parts_btn="1" lazy_loading="no" blog_columns="3"][/vc_column][/vc_row]');?>
     </div>
 </section>
 <section id="contacto_inicio" class="template-section">
@@ -77,10 +77,10 @@ esperan por ti en México y Argentina</span></h2>
                    <h2 class="interes">Enlaces de Interés</h2>
                     <a href="" class="enlace">Centros Pythagoricos en Argentina</a> <br>
                     <a href="" class="enlace">Centros Pythagoricos en México</a><br>
-                    <a href="" class="enlace">Seminarios Europa 2019 </a><br>
-                    <a href="" class="enlace">Seminarios México 2019 </a><br>
-                    <a href="" class="enlace">Actividades  Argentina 2019 </a><br>
-                    <a href="" class="enlace">Seminarios Usa 2019   </a><br>
+                    <a href="http://escuelapythagorica.org/seminario-espanol/" class="enlace">Seminarios Europa 2019 </a><br>
+                    <a href="http://escuelapythagorica.org/ejemplo-seminario-2019/" class="enlace">Seminarios México 2019 </a><br>
+                    <a href="http://escuelapythagorica.org/argentina/" class="enlace">Actividades  Argentina 2019 </a><br>
+                    <a href="" class="enlace">Seminarios USA 2019   </a><br>
                  <p class="siguenos"> <a href="https://www.facebook.com/Academia-de-Filosof%C3%ADa-Pythag%C3%B3rica-Frase-para-tu-Hoy-505093299656751/" class="sigue"> <span>Síguenos en</span></a> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/face.png" alt="Facebook"> </p>
                     
                 </div>
