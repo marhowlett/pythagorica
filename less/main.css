@@ -378,6 +378,9 @@ h2 {
 #renacimiento .centro {
   text-align: center;
 }
+#renacimiento img {
+  margin-bottom: 20px;
+}
 #contacto_inicio {
   background: url(../img/contacto.png) no-repeat center;
 }
@@ -520,8 +523,13 @@ h2 {
 #devocion .contenedor {
   max-width: 1015px;
 }
-#devocion2 {
+#devocion2 h2,
+#devocion2 p,
+#devocion2 h3 {
   color: white;
+}
+#devocion2 h3 {
+  text-align: center;
 }
 #devocion2 .contenedor {
   max-width: 1015px;

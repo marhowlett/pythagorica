@@ -365,9 +365,14 @@ SUNDAY 10: 00 - 14: 00</p>
 
 <section id="devocion" class="template-section">
 <div class="contenedor">
-<h2>Nuestros Centros Pytagóricos
-</h2>
-<p>Los Centros Pythagoricos son sostenidos por instructores autorizados por la Academia de Filosofía Pythagorica A.C.,que con su trabajo rítmico de impartir el conocimiento semanalmente a grupos de personas comprometidas sostienen una energía de expansión del mismo.</p>
-<h3>Actualmente contamos con centros en México, Argentina y España.</h3>
+<p>Fue Pythagoras un filósofo de la Grecia antigua, nació en Samos, hijo de Parthemis y Mnesarco, su nombre significa “quien devela la Divina Sabiduría”. Vivió cinco siglos antes de Cristo. Luego de un riquísimo viaje de iniciación de 40 años, que comienza en su adolescencia, funda en la isla de Crotona la Escuela Pythagorica, o sea, “Escuela de Divina Sabiduría”, que fue la primera universidad mixta conocida en el Mundo Occidental (llegó a tener 3,000 alumnos internos en pabellones de hombres y pabellones de mujeres).
+</p>
+<p>Pythagoras, en su mágico viaje de unión de culturas, religiones y civilizaciones en un mismo y único Conocimiento racional, simple y bello, “bebió” de las más grandes fuentes de Sabiduría de ese entonces:</p>
+<p>…de los llamados “siete sabios” de Grecia, todo lo inherente a las bases de la Filosofía occidental… (hasta los 18 años… </p>
+<p>…de Egipto, aprende los más grandes misterios ocultos de lo Divino y de lo terrenal (herencia de la Sabiduría Atlante), de lo Invisible y lo visible, durante 24 años. </p>
+<p>…de los conocimientos que fueron base de la cultura y religión árabe, como también de la hindú y la china, comparte con el Gran Buda y recibe Su Iluminación… </p>
+<p>…y regresa a Grecia, aprendiendo también de los magos caldeos la transformación de la materia a través de las fuerzas invisibles…</p>
+<p>En fin… es Pythagoras en sí mismo y en lo que transmite Símbolo de Unidad (“Amo al Uno” DIOS, lo simple…) No es religión ni dogma y muestra que la Esencia de todas las religiones es la misma: EL AMOR y racionalmente, enseña cómo llegar a El… a través de la explicación de la forma matemática en la que se arma Tu Mundo y a través de la explicación de todos los mecanismos de la Vida…</p>
+<h2>Maria Amelia Ruíz.</h2>
 </div>
 </section>
