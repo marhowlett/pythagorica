@@ -376,3 +376,197 @@ SUNDAY 10: 00 - 14: 00</p>
 <h2>Maria Amelia Ruíz.</h2>
 </div>
 </section>
+
+<section id="contacto_centro" class="template-section">
+<div class="contenedor">
+<p><strong>Akasha</strong></p>
+<hr class="rio">
+<p> <strong> Rio Cuarto, Córdoba Argentina
+Instructores</strong>
+Maru Arau, Santiago Fourcade, Martin Molina</p>
+<hr>
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/whats2.png" alt="" width="58" height="58" />
+<p>+54 9 1134780607</p>
+<p>+54 9 3584128276</p>
+<p>+54 9 1155654240  </p>
+<hr>
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/email.png" alt="" width="58" height="58" />
+<p>akashacentropythagorico@
+gmail.com</p>
+ <a href="https://escuelapythagorica.org/blog" class="btn">Cómo llegar   </a><br>
+</div>
+</section>
+
+
+<section id="contacto_centro" class="template-section">
+<div class="contenedor">
+<p><strong>El uno contigo</strong></p>
+<hr class="rio">
+<p> <strong> Córdoba, Capital Argentina
+Instructora y psicoterapeuta </strong>
+Liliana Pernochi</p>
+&nbsp;
+<hr>
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/whats2.png" alt="" width="58" height="58" />
+<p>&nbsp;</p>
+<p>+549 35193677237</p>
+<p>&nbsp; </p>
+<hr>
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/email.png" alt="" width="58" height="58" />
+<p class="ulti">akashacentropythagorico@gmail.com</p>
+
+</div>
+ <a href="https://escuelapythagorica.org/blog" class="btn">Cómo llegar   </a>
+</section>
+
+
+<section id="contacto_centro" class="template-section">
+<div class="contenedor">
+<p><strong>Om tat sat</strong></p>
+<hr class="rio">
+<p> <strong> Querétaro, Qro México
+Instructora y Psicoterapeuta  </strong>
+Dolores Orozco</p>
+&nbsp;
+<hr>
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/whats2.png" alt="" width="58" height="58" />
+<p>&nbsp;</p>
+<p class="num">+521 442 446 9353</p>
+<p>&nbsp; </p>
+<hr>
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/email.png" alt="" width="58" height="58" />
+<p class="ulti">doloresorozco@nutrix.mx</p>
+
+</div>
+ <a href="https://escuelapythagorica.org/blog" class="btn">Cómo llegar   </a>
+</section>
+
+
+
+
+<section id="contacto_centro" class="template-section">
+<div class="contenedor">
+
+<h3>Mar de Alquimía Interior</h3>
+
+<hr class="rio" />
+
+<strong>Cancún, Q.R. México
+Instructora</strong>
+Martha Lobo
+<hr />
+
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/whats2.png" alt="" width="58" height="58" />
+<p><strong>+52</strong>1 998 1530 792</p>
+
+<hr />
+
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/email.png" alt="" width="58" height="58" />
+<p class="ulti">mlobo1@prodigy.net.mx</p>
+
+</div>
+<a class="btn" href="https://escuelapythagorica.org/blog">Cómo llegar </a>
+
+</section>
+
+
+<section id="contacto_centro" class="template-section">
+<div class="contenedor">
+
+<h3>Hacia el Uno</h3>
+
+<hr class="rio" />
+
+<strong>Toluca, Edo. de México
+Instructora</strong>
+Canela Zimbrón
+<hr />
+
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/whats2.png" alt="" width="58" height="58" />
+<p><strong>+52</strong>1 55 1249 9798</p>
+
+<hr />
+
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/email.png" alt="" width="58" height="58" />
+<p class="ulti">pitagorasmarialuisa@gmail.com</p>
+
+</div>
+<a class="btn" href="https://escuelapythagorica.org/blog">Cómo llegar </a>
+
+</section>
+
+
+<section id="contacto_centro" class="template-section">
+<div class="contenedor">
+
+<h3>El Manglar del Espíritu</h3>
+
+<hr class="rio" />
+
+<strong>Mérida, Yucatán México
+Orientadora </strong>
+Angeles Rosado
+<hr />
+
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/whats2.png" alt="" width="58" height="58" />
+<p><strong>+52</strong> 1 999 278 4343</p>
+
+<hr />
+
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/email.png" alt="" width="58" height="58" />
+<p class="ulti">koalamx@hotmail.com</p>
+
+</div>
+<a class="btn" href="https://escuelapythagorica.org/blog">Cómo llegar </a>
+
+</section>
+
+<section id="ti_con" class="template-section">
+<div class="contenedor">
+<h3>EL PODER DE
+ LO ETERNO</h3>
+    </div>
+</section>
+
+
+<section id="contacto_centro" class="template-section">
+<div class="contenedor">
+
+<h3>El poder de lo eterno</h3>
+
+<hr class="rio gr" />
+
+<strong>Valencia, España
+Orientadora</strong>
+Lucero Palafox
+<hr class=" gr"  />
+
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/whats2.png" alt="" width="58" height="58" />
+<p><strong>+34</strong>689 820 611 Mari Jose</p>
+<p><strong>+52</strong>2 229 161 4249 Lucero</p>
+<p><strong>+34</strong>659 131 921 Karen</p>
+<hr class=" gr"  />
+
+<img class="alignnone wp-image-131 size-full" src="https://escuelapythagorica.org/wp-content/uploads/2019/06/email.png" alt="" width="58" height="58" />
+<p class="ulti">elpoderdeloeterno@gmail.com</p>
+
+</div>
+<a class="btn" href="https://escuelapythagorica.org/blog">Cómo llegar </a>
+
+</section>
+
+
+
+
+<section id="buenosaires" class="template-section">
+<div class="contenedor">
+<div class="grid">
+<div class="col">
+<img class="ubicacion3 alignnone wp-image-131 size-full" src="http://escuelapythagorica.org/wp-content/uploads/2019/06/whatsapp-logo.png" alt="" width="58" height="58" />
+</div>
+<div class="col">
+<p class="conta3">Contacta con:</p>
+</div>
+</div>
+    </div>
+</section>

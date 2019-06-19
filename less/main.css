@@ -589,7 +589,7 @@ body.page-id-218 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
 }
 body.page-id-245 .vc_row-has-fill > .vc_column_container > .vc_column-inner,
 body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-inner {
-  margin-bottom: -115px;
+  margin-bottom: -90px;
   margin-top: -115px;
 }
 #buenosaires .col {
@@ -618,6 +618,9 @@ body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
 #buenosaires p.conta3 {
   margin-top: 20px;
 }
+#buenosaires p.conta4 {
+  margin-top: 50px;
+}
 #buenosaires p.maria {
   position: relative;
   top: 10px;
@@ -625,6 +628,10 @@ body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
 #buenosaires p.maria2 {
   position: relative;
   top: 20px;
+}
+#buenosaires p.maria3 {
+  position: relative;
+  top: 30px;
 }
 #buenosaires .num {
   padding: 10px;
@@ -679,6 +686,67 @@ body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
 }
 #tienda h2 {
   font-size: 50px;
+}
+.ave {
+  margin-bottom: 47px;
+}
+.fuego {
+  margin-top: 100px;
+}
+.mar {
+  margin-top: 30px;
+}
+#contacto_centro {
+  background-color: #eff1f2;
+  text-align: center;
+}
+#contacto_centro img {
+  position: relative;
+  top: -13px;
+}
+#contacto_centro hr {
+  width: 370px;
+  color: #535353;
+  position: relative;
+  top: 40px;
+}
+#contacto_centro hr.rio {
+  top: 0px;
+}
+#contacto_centro hr.gr {
+  width: 570px;
+}
+#contacto_centro .btn {
+  position: relative;
+  top: 95px;
+  visibility: hidden!important;
+}
+#contacto_centro p.ulti {
+  margin-bottom: -50px;
+}
+#contacto_centro p.ulti2 {
+  margin-bottom: -28px;
+}
+#contacto_centro p.nume {
+  margin-top: 55px;
+  margin-bottom: 67px;
+}
+#contacto_centro p.nume2 {
+  margin-top: 45px;
+  margin-bottom: 38px;
+}
+#contacto_centro h3.tit {
+  margin-top: 12px;
+  margin-bottom: 34px;
+}
+#contacto_centro h2,
+#contacto_centro p,
+#contacto_centro a {
+  color: #623c62;
+}
+#ti_con h3 {
+  font-size: 35px;
+  text-align: center;
 }
 @media screen and (min-width: 1530px) {
   #principios .principios {

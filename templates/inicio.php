@@ -78,12 +78,12 @@ esperan por ti en México y Argentina</span></h2>
                 </div>
                 <div class="col">
                    <h2 class="interes">Enlaces de Interés</h2>
-                    <a href="" class="enlace">Centros Pythagoricos en Argentina</a> <br>
-                    <a href="" class="enlace">Centros Pythagoricos en México</a><br>
+                    <a href="https://escuelapythagorica.org/centros/" class="enlace">Centros Pythagoricos en Argentina</a> <br>
+                    <a href="https://escuelapythagorica.org/centros/" class="enlace">Centros Pythagoricos en México</a><br>
                     <a href="http://escuelapythagorica.org/seminario-espanol/" class="enlace">Seminarios Europa 2019 </a><br>
                     <a href="http://escuelapythagorica.org/ejemplo-seminario-2019/" class="enlace">Seminarios México 2019 </a><br>
                     <a href="http://escuelapythagorica.org/argentina/" class="enlace">Actividades  Argentina 2019 </a><br>
-                    <a href="" class="enlace">Seminarios USA 2019   </a><br>
+                    <a href="" class="enlace">Seminarios USA 2019 (PRÓXIMAMENTE) </a><br>
                  <p class="siguenos"> <a href="https://www.facebook.com/Academia-de-Filosof%C3%ADa-Pythag%C3%B3rica-Frase-para-tu-Hoy-505093299656751/" class="sigue"> <span>Síguenos en</span></a> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/face.png" alt="Facebook"> </p>
                     
                 </div>
@@ -92,6 +92,7 @@ esperan por ti en México y Argentina</span></h2>
         </div>
 
     </section>
+    
 <?php 
     get_footer();
 ?>

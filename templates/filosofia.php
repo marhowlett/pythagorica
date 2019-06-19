@@ -71,9 +71,7 @@
          </div>
        </div>
 </section>
- <div class="contactoruiz">
-    <?php include 'contacto.php'; ?>
-</div>
+
  
 <?php 
     get_footer();
