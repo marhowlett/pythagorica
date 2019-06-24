@@ -748,6 +748,9 @@ body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
   font-size: 35px;
   text-align: center;
 }
+#galeria h2 {
+  font-size: 45px;
+}
 @media screen and (min-width: 1530px) {
   #principios .principios {
     position: relative;

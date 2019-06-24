@@ -66,6 +66,10 @@ esperan por ti en México y Argentina</span></h2>
         </div>
     </div>
 </section>
+   <section id="galeria" class="template-section">
+   <h2>Frases del día</h2>
+    <?php echo do_shortcode ('[elfsight_instagram_feed id="1"]'); ?>
+    </section>
 <section id="contacto_inicio" class="template-section">
 
         <div class="contenedor">
@@ -73,8 +77,7 @@ esperan por ti en México y Argentina</span></h2>
                <div class="col">
                    <h2>Contáctanos</h2>
                    <p>La FILOSOFIA PYTHAGORICA quiere ofrecerte una ventana por dónde entre LUZ para tu Yo y tu vida y una PUERTA para atravesar, donde puedas encontrar las respuestas y las salidas a todos tus problemas, hasta las situaciones más engorrosas de tu vida…</p>
-                   <?php echo do_shortcode('[caldera_form id="CF5cf965e5a3c39"]');
-    ?>
+                   <?php echo do_shortcode('[caldera_form id="CF5cf965e5a3c39"]');?>
                 </div>
                 <div class="col">
                    <h2 class="interes">Enlaces de Interés</h2>
@@ -92,6 +95,9 @@ esperan por ti en México y Argentina</span></h2>
         </div>
 
     </section>
+    
+    
+
     
 <?php 
     get_footer();

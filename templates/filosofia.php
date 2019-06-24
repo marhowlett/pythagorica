@@ -71,7 +71,10 @@
          </div>
        </div>
 </section>
-
+   <section id="galeria" class="template-section">
+   <h2>Galería</h2>
+    <?php echo do_shortcode ('[elfsight_instagram_feed id="2"]'); ?>
+    </section>
  
 <?php 
     get_footer();
