@@ -68,7 +68,7 @@ esperan por ti en México y Argentina</span></h2>
 </section>
    <section id="galeria" class="template-section">
    <h2>Frases del día</h2>
-    <?php echo do_shortcode ('[elfsight_instagram_feed id="1"]'); ?>
+    <?php echo do_shortcode ('[elfsight_instagram_feed id="7"]'); ?>
     </section>
 <section id="contacto_inicio" class="template-section">
 

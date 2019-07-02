@@ -751,6 +751,9 @@ body.page-id-245 .vc_row-has-fill + .vc_row > .vc_column_container > .vc_column-
 #galeria h2 {
   font-size: 45px;
 }
+.woodmart-entry-meta .meta-author {
+  display: none;
+}
 @media screen and (min-width: 1530px) {
   #principios .principios {
     position: relative;
