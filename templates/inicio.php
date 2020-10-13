@@ -87,7 +87,7 @@ esperan por ti en México y Argentina</span></h2>
                     <a href="http://escuelapythagorica.org/ejemplo-seminario-2019/" class="enlace">Seminarios México 2019 </a><br>
                     <a href="http://escuelapythagorica.org/argentina/" class="enlace">Actividades  Argentina 2019 </a><br>
                     <a href="" class="enlace">Seminarios USA 2019 (PRÓXIMAMENTE) </a><br>
-                 <p class="siguenos"> <a href="https://www.facebook.com/Academia-de-Filosof%C3%ADa-Pythag%C3%B3rica-Frase-para-tu-Hoy-505093299656751/" class="sigue"> <span>Síguenos en</span></a> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/face.png" alt="Facebook"> </p>
+                 <p class="siguenos"> <span>Síguenos en</span> <a href="https://www.facebook.com/Academia-de-Filosof%C3%ADa-Pythagorica-AC-105947297754067/?ref=bookmarks" class="sigue"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/face.png" alt="Facebook"> </a> <a href="https://www.instagram.com/academiapythagoricadefilosofia/" class="sigue"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/INSTAGRAM.png" alt="IG"> </a> <a href="https://www.youtube.com/channel/UCuJSRIqvKpKO46vQ-Yy6HQg" class="sigue"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/youtube.png" alt="IG"> </a>  </p>
                     
                 </div>
                  

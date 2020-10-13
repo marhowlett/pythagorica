@@ -30,6 +30,9 @@
 		 
 
         <div class="contactoruiz">
+        <div class="blogfooter">
+    <?php include 'templates/contacto_inicio.php'; ?>
+    </div>
     <?php include 'templates/contacto.php'; ?>
 </div>
 
